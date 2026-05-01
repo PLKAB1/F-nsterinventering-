@@ -1,6 +1,6 @@
 {
   "name": "plkab-fonsterinventering",
-  "version": "0.1.0",
+  "version": "3.0.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -13,6 +13,7 @@
     "vite": "latest",
     "react": "latest",
     "react-dom": "latest",
+    "framer-motion": "latest",
     "lucide-react": "latest"
   },
   "devDependencies": {}
