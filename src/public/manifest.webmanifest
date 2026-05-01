@@ -1,0 +1,10 @@
+{
+  "name": "PLKAB Fönsterinventering",
+  "short_name": "Fönster",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "description": "Fältapp för fönsterinventering och rapportutkast.",
+  "icons": []
+}
